@@ -1,6 +1,7 @@
 # RaceManager – Database Admin Tool for Game Curses
 
 This repository contains the final project for the course Databases at the University of Girona. The project focuses on backend logic and interaction with a relational database using SQL and PHP.
+The code is commented in Catalan.
 
 ## Program Description
 
